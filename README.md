@@ -24,10 +24,11 @@ Java programs covering basic concepts as part of coursework.
 | `SumEvenNo1to20.java` | Sum of even numbers from 1 to 20 |
 | `EvenUptoNUsingContinue.java` | Print even numbers up to N using continue |
 | `TestCar.java` | Class & objects demo |
+| `MatrixDiagonal.java` | Calculate the sum of the principal diagonal of a 3×3 matrix |
 
 ## Lab
 | File | Description |
 |------|-------------|
-| `lab/lab1.1calculator/Lab1_1.java` | Calculator |
-| `lab/lab1.2alldatatypes/Lab1_2.java` | All data types |
-| `lab/lab1.3alloperator/Lab1_3.java` | All operators |
+| `lab/Lab1_1.java` | Basic arithmetic operations on two integers |
+| `lab/Lab1_2.java` | Java primitive data types and String values |
+| `lab/Lab1_3.java` | Relational, logical, assignment, bitwise, and ternary operators |
