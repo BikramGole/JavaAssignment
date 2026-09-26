@@ -1,3 +1,4 @@
+// Demonstrates Java primitive data types and String values.
 public class Lab1_2 {
 	public static void main(String[] args) {
 
