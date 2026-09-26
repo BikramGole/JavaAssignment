@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// Performs basic arithmetic operations on two user-provided integers.
 
 public class Lab1_1 {
 	public static void main(String[] args) {
