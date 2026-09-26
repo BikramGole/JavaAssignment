@@ -1,3 +1,4 @@
+// Demonstrates relational, logical, assignment, bitwise, and ternary operators.
 public class Lab1_3 {
 	public static void main(String[] args) {
 
