@@ -25,6 +25,7 @@ Java programs covering basic concepts as part of coursework.
 | `EvenUptoNUsingContinue.java` | Print even numbers up to N using continue |
 | `TestCar.java` | Class & objects demo |
 | `MatrixDiagonal.java` | Calculate the sum of the principal diagonal of a 3×3 matrix |
+| `MatrixInpDisplay.java` | Input and display a 3×3 matrix |
 
 ## Lab
 | File | Description |
