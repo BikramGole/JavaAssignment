@@ -33,8 +33,8 @@ Java programs covering basic concepts as part of coursework.
 | `lab/Lab1_1.java` | Basic arithmetic operations on two integers |
 | `lab/Lab1_2.java` | Java primitive data types and String values |
 | `lab/Lab1_3.java` | Relational, logical, assignment, bitwise, and ternary operators |
-| `lab2.1.1EvenOddPosiNegaZero.java` | Check whether a number is even or odd and positive, negative, or zero |
-| `lab2.1.2Greatest3num.java` | Find the greatest of three numbers |
-| `lab2.1.3SwitchAddSubMulDiv.java` | Perform arithmetic operations using a switch statement |
-| `lab2.2iPalindrome.java` | Check whether a number is a palindrome |
-| `lab2.2iiArmstrong.java` | Check whether a number is an Armstrong number |
+| `lab/lab2.1.1EvenOddPosiNegaZero.java` | Check whether a number is even or odd and positive, negative, or zero |
+| `lab/lab2.1.2Greatest3num.java` | Find the greatest of three numbers |
+| `lab/lab2.1.3SwitchAddSubMulDiv.java` | Perform arithmetic operations using a switch statement |
+| `lab/lab2.2iPalindrome.java` | Check whether a number is a palindrome |
+| `lab/lab2.2iiArmstrong.java` | Check whether a number is an Armstrong number |
